@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'Astronomía en el Paleolítico'
 created: 2020-04-09 10:48:46
 modified: 2020-09-29 05:59:35
