@@ -9,6 +9,9 @@ created_by: 25
 image_intro_url: images/articulos/arqueo/astronomia-paleolitico-preview.jpg
 image_fulltext: images/articulos/arqueo/astronomia_paleolitico_header.jpg
 excerpt_separator: <!--more-->
+header:
+  image: images/articulos/arqueo/astronomia_paleolitico_header.jpg
+  caption: "Caption"
 ---
 # Astronomía en el Paleolítico
 
