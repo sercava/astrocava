@@ -2,11 +2,11 @@
 main:
   - title: "Galería"
     url: /galeria/
-  - title: "Astrofotoa"
+  - title: "Astrofoto"
     url: /astrofotografia/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Observación"
+    url: /observacion/
+  - title: "Arqueoastronomía"
+    url: /arqueoastronomia/
+  - title: "legal"
+    url: /legal/
